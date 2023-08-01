@@ -1,10 +1,10 @@
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
-import Experience from "./components/Experience/Experience";
 import Home from "./components/Home/Home";
 import NavBar from "./components/Navbar/Navbar";
 import Portfolio from "./components/Portfolio/Portfolio";
 import SocialLinks from "./components/Social-Links/SocialLinks";
+import TechStack from "./components/TechStack/TechStack";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Home />
       <About />
       <Portfolio />
-      <Experience />
+      <TechStack />
       <Contact />
       <SocialLinks />
     </div>

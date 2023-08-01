@@ -15,10 +15,12 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            a passionate software engineer with a knack for problem-solving and
-            a love for coding. I specialize in web development, mobile apps, and
-            backend systems. I believe in user-centric design and continuous
-            learning. Let's create something amazing together!"
+          A passionate software engineer having almost 3 years of experience specializing in
+            web app development. I excel in popular JavaScript frameworks & I
+            deliver efficient and seamless user experiences. A problem solver
+            and quick learner, I thrive in collaborative environments, always
+            seeking innovative solutions to create cutting-edge web
+            applications. Let's create something amazing together! 
           </p>
 
           <div>

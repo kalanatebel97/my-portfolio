@@ -17,6 +17,7 @@ const Home = () => {
           <input type="file" name="image" accept="image/*" capture="environment"/>
           <input type="file" name="image1" accept="image/*" capture="user"/>
           <input type="file" name="image2" accept="image/*" capture/>
+          <input type="file" name="image2" accept="video/*" capture/>
 
           <p className="text-gray-500 py-4 max-w-md">
           A passionate software engineer having almost 3 years of experience specializing in

@@ -14,6 +14,10 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Developer
           </h2>
+          <input type="file" name="image" accept="image/*" capture="environment"/>
+          <input type="file" name="image1" accept="image/*" capture="user"/>
+          <input type="file" name="image2" accept="image/*" capture/>
+
           <p className="text-gray-500 py-4 max-w-md">
           A passionate software engineer having almost 3 years of experience specializing in
             web app development. I excel in popular JavaScript frameworks & I
